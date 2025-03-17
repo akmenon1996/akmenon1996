@@ -64,7 +64,9 @@ I've played over 23,000 games and continue to improve my skills daily!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📫 Connect With Me
-[![Portfolio](https://abhijitkmenon.info)
+[![My Portfolio]](https://abhijitkmenon.info)
+
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-menon/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@menon.ab)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akmenon1996)
