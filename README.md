@@ -1,69 +1,76 @@
-# Welcome to your Lovable project
 
-## Project info
+# 👋 Hi, I'm Abhijit Menon
 
-**URL**: https://lovable.dev/projects/0ee25ce4-2682-4f11-a6e8-aa8138b9f5ef
+AI Engineer | Full Stack Developer | Chess Enthusiast
 
-## How can I edit this code?
+## 🧠 About Me
 
-There are several ways of editing your application.
+I'm a passionate AI Engineer and Full Stack Developer with expertise in building intelligent applications. My work focuses on leveraging machine learning and artificial intelligence to solve real-world problems through innovative software solutions.
 
-**Use Lovable**
+## 🚀 Projects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0ee25ce4-2682-4f11-a6e8-aa8138b9f5ef) and start prompting.
+### [AI Agent Marketplace](https://github.com/akmenon1996/ai-agent-marketplace)
+An open-source ecosystem for AI-driven agents that enables users to interact with multiple specialized AI agents for tasks ranging from code review to interview preparation.
 
-Changes made via Lovable will be committed automatically to this repo.
+### [LLM-ChessCoach](https://github.com/akmenon1996/LLM-ChessCoach)
+An AI-powered chess coach that leverages large language models to provide personalized coaching and game analysis.
 
-**Use your preferred IDE**
+### [ElevateCV](https://github.com/akmenon1996/ElevateCV)
+A dynamic resume builder application that helps users create professional resumes tailored to specific job descriptions.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### [EasyNER](https://github.com/akmenon1996/EasyNER)
+A streamlined tool for Named Entity Recognition that simplifies text annotation and extraction processes.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### [GPTLatest](https://github.com/akmenon1996/GPTLatest)
+A tool for accessing the latest information through advanced language models, bridging the knowledge gap in LLMs.
 
-Follow these steps:
+## 📝 Featured Articles
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### [AI Agent Marketplace: Building an Open Ecosystem for AI Agents](https://blog.stackademic.com/ai-agent-marketplace-building-an-open-ecosystem-for-ai-agents-2e6db0ba1746)
+An in-depth look at AgentHive, an open-source initiative providing a flexible framework for AI-driven agents.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### [Bridging Chess Mastery and AI Innovation: The Making of LLM-ChessCoach](https://blog.stackademic.com/bridging-chess-mastery-and-ai-innovation-the-making-of-llm-chesscoach-f4aedc72df70)
+How I combined my passion for chess with AI to create an intelligent chess coaching system.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### [Building ElevateCV: A Dynamic Resume Builder with React and Flask](https://blog.stackademic.com/building-elevatecv-a-dynamic-resume-builder-with-react-and-flask-b19a3dd2ae65)
+The technical journey of creating a tool that helps people craft better resumes for job applications.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## ♟️ Chess
 
-**Edit a file directly in GitHub**
+I'm an avid chess player with a focus on rapid and bullet formats. Check out my [Lichess profile](https://lichess.org/@/abhikmenom) where I maintain:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Bullet Rating**: 1941
+- **Blitz Rating**: 1775
+- **Rapid Rating**: 1868
 
-**Use GitHub Codespaces**
+I've played over 23,000 games and continue to improve my skills daily!
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🛠️ Skills & Technologies
 
-## What technologies are used for this project?
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-This project is built with .
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-## How can I deploy this project?
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Simply open [Lovable](https://lovable.dev/projects/0ee25ce4-2682-4f11-a6e8-aa8138b9f5ef) and click on Share -> Publish.
+## 📫 Connect With Me
 
-## I want to use a custom domain - is that possible?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-menon/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@menon.ab)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akmenon1996)
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Feel free to reach out for collaborations or just a friendly chat!
