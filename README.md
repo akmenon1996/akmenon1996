@@ -1,11 +1,15 @@
 
 # 👋 Hi, I'm Abhijit Menon
 
-AI Engineer | Full Stack Developer | Chess Enthusiast
+Data Engineer | AI Practitioner | Chess Enthusiast
 
 ## 🧠 About Me
 
-I'm a passionate AI Engineer and Full Stack Developer with expertise in building intelligent applications. My work focuses on leveraging machine learning and artificial intelligence to solve real-world problems through innovative software solutions.
+As a passionate Data Engineer with a proven track record in developing and deploying innovative data solutions, I specialize in leveraging AWS technologies to enhance data quality, ingestion, and analytics pipelines. Currently, at Amazon, I’ve engineered tools and systems that have not only improved data reliability but also streamlined processes, saving significant time and resources. My work on the “Alexa Thank My Driver” feature facilitated $2 million in payments and garnered over 13.7 million social media impressions.
+
+With expertise in Python, PySpark, SQL, AWS SageMaker, and more, I thrive on solving complex data challenges and driving operational efficiency. I am always eager to push the boundaries of what’s possible in data engineering, ensuring data integrity and enhancing performance at every step.
+
+Find out more about me here - [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://abhijitkmenon.info)
 
 ## 🚀 Projects
 
